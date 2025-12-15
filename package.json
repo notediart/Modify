@@ -1,0 +1,25 @@
+
+{
+  "name": "modify",
+  "start": "node index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types":"module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.1.0",
+    "uuid": "^13.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
